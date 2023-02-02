@@ -1,0 +1,19 @@
+button {
+  background-color: white;
+  font-size: 15px;
+  width: 100px;
+  height: 40px;
+  color: red;
+  border-radius: 15px;
+  border: 2px solid red;
+}
+
+.activeStyle {
+  background-color: red;
+  color: white;
+  border: 0px;
+}
+
+li {
+  list-style-type: none;
+}
